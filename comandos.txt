@@ -1,0 +1,68 @@
+﻿cofiguracion de git
+====================================
+git config --global user.name nombre
+git config --global user.email "email"
+git add --all =añade todos los ficheros y directorios
+=====================================
+
+
+
+dos cambios guardar del mismo comit
+====================================
+git commit --amend = aparecera la consola editable
+mkdir nombre_del_directorio =crear un directorio 
+cd mas_directorio= para acceder a un directorio
+
+
+
+====================================================
+como crear una llave ssh y la comunico a github
+====================================================
+ssh-keygen 
+despues la guardan donde deseen, pones la llave y despues copias lo que esta en el .pub y lo pones en tu shh de github
+==========================================================================================================
+
+
+
+
+clear = para limpiar consola
+echo "loque quieras escribir">nombr.ext
+=============================================================
+
+
+git init= conectar el proyecto de tu computadora a github, crear repositorio en local 
+touch nombre_archivo= crear un archivo 
+git add nombre_archivo=para agregar ese archivo a repositorio
+git status=para mirar como va el repositorio
+git commit -m "este es el primer archivo desde mi pc"=envio de cambios a tu repositorio local "commit"
+=========================================================================================
+
+
+AHORA PARA CONECTAR CON GITHUB SE HACE ASI
+git remote add origin git@github.com:brayanpastor/prueba-github.git=conectar remotamente git@github.com:brayanpastor/prueba-github.git
+=========================
+CONECTAR REPOSITORIO LOCAL CON el repositorio de LA NUBE
+git pull origin master=trae todo el contenido de github a tu compu local
+git push -u origin master = para enviar tu archivo a github
+==============================================================
+
+
+===BORRAR UN COMIT
+git log --oneline = aparece los commit
+git reset --mixed 984jkj4 = recetear o volver a un comit
+git show kwjej23= ver commit detallado con los ficheros
+
+==================================================
+clonar un repositorio
+================================================= 
+git clone url_repositorio
+
+
+
+git remote -v = ves los repositorios tienes configurado
+
+git branch <name>= creas nueva rama
+git checkout <name>=pasar a la rama
+git merge <rama>=la rama que deseas igual a master
+git diff 
+
