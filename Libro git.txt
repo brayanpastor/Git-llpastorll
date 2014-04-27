@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 libro en español de git 
+=======
+>>>>>>> 3db59c45c25079ea5488ed90926e677427b6a91f
 http://git-scm.com/book/es
