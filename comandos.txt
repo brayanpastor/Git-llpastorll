@@ -4,7 +4,7 @@ ssh-keygen -t rsa -C "your_email@example.com"= creas llave
 copias lo que esta adentro del .pub en el gihub ssh keys 
 ssh -T git@github.com=compruebas la conexion con la llave
 
-
+<font color="red">Este texto está en rojo</font>
 cofiguracion de git
 
 =======
