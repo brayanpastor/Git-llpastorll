@@ -1,4 +1,4 @@
 Git-llpastorll
 ==============
 
-Git y lo mas importante que debo saber de este CONTROL DE VERSIONES (VCS), su libro online y comandos
+Git y lo mas importante que debo saber de este CONTROL DE VERSIONES (VCS), su libro online (http://git-scm.com/book/es) y comandos
