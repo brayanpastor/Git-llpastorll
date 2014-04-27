@@ -1,0 +1,2 @@
+libro en español de git 
+http://git-scm.com/book/es
